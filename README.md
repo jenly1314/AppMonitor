@@ -37,7 +37,6 @@ allprojects {
 
 2. 在Module的 **build.gradle** 里面添加引入依赖项
 ```gradle
-//AndroidX 版本
 implementation 'com.github.jenly1314:app-monitor:1.0.0'
 
 ```
